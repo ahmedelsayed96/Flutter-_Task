@@ -3,12 +3,20 @@
 Customer Registration screen
 ============================
 [IMEI]		 ____________ [auto-populated by default. If not available, let user enter it.]
+<br>
 [First name] ____________
+<br>
 [Last name]  ____________
 [DoB]        ____________ [Calendar, Date format = dd/MM/yyyy]
+<br>
 [Passport #] ____________ [Visible and mandatory ONLY when person is 18+]
+<br>
 [Email]      ____________
+<br>
+
 [Picture]    ____________ [Capture from Camera]
+<br>
+
 
 					[Save]
 
